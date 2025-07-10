@@ -3,6 +3,7 @@ import Hero from "@/components/hero";
 import About from "@/components/about";
 import Projects from "@/components/projects";
 import Skills from "@/components/skills";
+import Interests from "@/components/interests";
 import Contact from "@/components/contact";
 import Footer from "@/components/footer";
 import { useEffect } from "react";
@@ -37,6 +38,7 @@ export default function Home() {
       <About />
       <Projects />
       <Skills />
+      <Interests />
       <Contact />
       <Footer />
     </div>

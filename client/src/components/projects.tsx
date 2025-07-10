@@ -118,6 +118,20 @@ export default function Projects() {
               </div>
             ))}
           </div>
+          
+          {/* View All Projects Button */}
+          <div className="text-center mt-12">
+            <a 
+              href="https://github.com/GarkaVittal7" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="group inline-flex items-center gap-2 bg-gradient-to-r from-primary to-primary/80 text-white px-8 py-3 rounded-lg font-medium hover:from-primary/90 hover:to-primary/70 transition-all duration-300 hover:scale-105 hover:shadow-lg"
+            >
+              <Github size={20} className="group-hover:rotate-12 transition-transform duration-300" />
+              View All Projects on GitHub
+              <span className="group-hover:translate-x-1 transition-transform duration-300">→</span>
+            </a>
+          </div>
         </div>
       </div>
     </section>
