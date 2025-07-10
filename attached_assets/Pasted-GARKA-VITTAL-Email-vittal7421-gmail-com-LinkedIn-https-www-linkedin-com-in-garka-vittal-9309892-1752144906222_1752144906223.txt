@@ -1,0 +1,46 @@
+GARKA VITTAL Email: vittal7421@gmail.com
+LinkedIn: https://www.linkedin.com/in/garka-vittal-930989264 Mobile: +91 7981276258
+Nizamabad, Telangana
+PROFILE SUMMARY
+A B.Tech graduate skilled in Java, HTML, CSS, JavaScript, SQL and Spring Framework. Experienced in full-stack development and
+including building and managing web-based applications like a Bank Management System. Proficient in front-end and backend development
+and database management. Strong problem solving, communication and collaboration skills. Seeking to contribute to innovative projects in
+a reputed company.
+WORK EXPERIENCE
+CIPHER BYTE TECHNOLOGIES | INTERN January 25 - February 25
+Book Management System | Core Java and MySQL
+○ Designed and developed a Book Management System using Java for organizing and managing book records.
+○ Created features to add, delete, update, and view book records.
+○ Added a user registration module to store and manage user details.
+○ Applied classes, objects, and methods to organize the code structure.
+○ Connected the application with MySQL database to store and manage book data.
+EDUCATION
+Kshatriya College of Engineering CGPA: 7.31
+Bachelor of Technology in Computer Science| November 2020 - June 2024
+SKILLS SUMMARY
+● Languages: Java, JavaScript, OOPS
+● Web Technologies: HTML, CSS, JSP, Servlets
+● Frameworks: Spring, Spring Boot, Hibernate
+● Databases: MySQL
+● Tools: GitHub, Vs Code, Eclipse
+● Technologies: Machine Learning, Cloud Databases, Observability tools (OpenCV, TensorFlow, and YOLO)
+● Soft Skills: People Management, Excellent communication, Problem Solving, Team Collaboration, Analytical Abilities,
+Logical thinking, Good communication skills
+PROJECTS
+Bank Management System | Java, JDBC, MySQL, Servlets, JSP August 24 - November 24
+○ Designed and developed a comprehensive banking system for managing user registration, account operations, and
+transactions.
+○ Utilized Java, JDBC, Servlets, and JSP to create robust backend functionality with secure database interactions.
+○ Integrated MySQL for data storage, ensuring data integrity and performance in transaction handling.
+○ Implemented a responsive front-end using HTML and CSS, offering seamless navigation for users.
+○ Followed security best practices and optimized code for enhanced performance and user experience.
+Inspecting Mega Solar Plants Using Computer Vision and Drone Technologies | Python, OpenCV February 24 - May 24
+○ Created an automated inspection system for solar plants using drone technologies and computer vision.
+○ Used Python, OpenCV, TensorFlow, and YOLO to detect defects and analyze images captured by drones.
+○ Enabled real-time monitoring and automated data collection to streamline inspection processes.
+○ Improved issue detection efficiency through AI-based visual analysis and anomaly detection.
+○ Contributed to sustainable energy maintenance by enhancing accuracy and speed in identifying faults
+CERTIFICATES
+● Java Full Stack Certificate – JSpiders training and placement center November 2024
+● NIIT Foundation Certificate January 2024
+● DRDO sponsored a two day workshop on cryptography, earning a recognition certificate. March 2023
